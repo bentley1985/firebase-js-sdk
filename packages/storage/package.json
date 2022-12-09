@@ -44,7 +44,7 @@
   "dependencies": {
     "@firebase/util": "1.8.0",
     "@firebase/component": "0.6.0",
-    "node-fetch": "2.6.7",
+    "node-fetch": "3.3.0",
     "tslib": "^2.1.0"
   },
   "peerDependencies": {
